@@ -1,0 +1,45 @@
+name: Fetch VnExpress Sports News
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/fetch-news.mjs'
+      - '.github/workflows/fetch-news.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-news
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch news feed
+        env:
+          NODE_TLS_REJECT_UNAUTHORIZED: '0'
+        run: node scripts/fetch-news.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/news.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update news feed [skip ci]"
+            git push
+          fi
