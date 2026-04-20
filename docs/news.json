@@ -4,13 +4,6 @@
   },
   "items": [
     {
-      "title": "Man City thắng Arsenal, sáng cửa vô địch Ngoại hạng Anh",
-      "link": "https://vnexpress.net/man-city-thang-arsenal-sang-cua-vo-dich-ngoai-hang-anh-5064409.html",
-      "pubDate": "Mon, 20 Apr 2026 04:09:29 +0700",
-      "description": "Thắng đỉnh bảng Arsenal 2-1 ở vòng 33, Man City rút cách biệt với đối thủ xuống còn ba điểm, và vẫn còn trong tay một trận chưa đấu tại Ngoại hạng Anh.",
-      "image": "https://vcdn1-thethao.vnecdn.net/2026/04/20/0FBLENGPRMANCITYARSENAL-177663-6530-9183-1776632894.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SdA4S-cPMB_nxgtXr6eLqw"
-    },
-    {
       "title": "Roy Keane tranh cãi gay gắt về Arsenal",
       "link": "https://vnexpress.net/roy-keane-tranh-cai-gay-gat-ve-arsenal-5064415.html",
       "pubDate": "Mon, 20 Apr 2026 05:49:26 +0700",
@@ -32,11 +25,25 @@
       "image": "https://vcdn1-thethao.vnecdn.net/2026/04/20/peparsenal-1776635412-2257-1776635706.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4GgCxcsuoNp9YGQo_7zyuA"
     },
     {
+      "title": "Hạ Arsenal, Man City giành quyền tự quyết ở Ngoại hạng Anh",
+      "link": "https://vnexpress.net/ha-arsenal-man-city-gianh-quyen-tu-quyet-o-ngoai-hang-anh-5064409.html",
+      "pubDate": "Mon, 20 Apr 2026 04:09:29 +0700",
+      "description": "Thắng đỉnh bảng Arsenal 2-1 ở vòng 33, Man City rút cách biệt xuống ba điểm và vẫn còn trong tay một trận chưa đấu tại Ngoại hạng Anh.",
+      "image": "https://vcdn1-thethao.vnecdn.net/2026/04/20/0FBLENGPRMANCITYARSENAL-177663-6530-9183-1776632894.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SdA4S-cPMB_nxgtXr6eLqw"
+    },
+    {
       "title": "Ronaldo giúp Al Nassr thắng đậm ở tứ kết Cup C2 châu Á",
       "link": "https://vnexpress.net/ronaldo-giup-al-nassr-thang-dam-o-tu-ket-cup-c2-chau-a-5064398.html",
       "pubDate": "Mon, 20 Apr 2026 00:10:17 +0700",
       "description": "Lần hiếm hoi đá chính tại AFC Champions League 2, Cristiano Ronaldo lập tức ghi bàn giúp Al Nassr thắng Al Wasl (UAE) 4-0, để vào bán kết.",
       "image": "https://vcdn1-thethao.vnecdn.net/2026/04/20/ronaldo-jpeg-1776618451-8454-1776618508.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SV0PW4Fdv1gzWz1q3kHh9w"
+    },
+    {
+      "title": "Alcaraz, Djokovic rút khỏi Madrid Mở rộng 2026",
+      "link": "https://vnexpress.net/alcaraz-djokovic-rut-khoi-madrid-mo-rong-2026-5064413.html",
+      "pubDate": "Mon, 20 Apr 2026 06:47:54 +0700",
+      "description": "Hai ngôi sao Carlos Alcaraz và Novak Djokovic cùng vắng mặt khiến danh sách rút lui khỏi Madrid Mở rộng 2026 tăng lên 17 người.",
+      "image": "https://vcdn1-thethao.vnecdn.net/2026/04/20/p2vxufukvfigpi2govky36mvsa-177-1301-3734-1776637220.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YWBjTIAbCsIvolCfxeFOhQ"
     },
     {
       "title": "Bayern vô địch Bundesliga sớm 4 vòng",
@@ -415,14 +422,7 @@
       "pubDate": "Thu, 16 Apr 2026 16:04:17 +0700",
       "description": "Sau 11 năm trắng tay ở major, golfer Rory McIlroy bước vào giai đoạn hai của sự nghiệp theo cách hiếm thấy của thể thao đỉnh cao.",
       "image": "https://vcdn1-thethao.vnecdn.net/2026/04/16/image1776326072483-1776326082-8901-1776326324.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DEyDjcS6lC9eZwRm82OYBw"
-    },
-    {
-      "title": "Diaz: 'Real đáng nhận thẻ đỏ'",
-      "link": "https://vnexpress.net/diaz-real-dang-nhan-the-do-5063213.html",
-      "pubDate": "Thu, 16 Apr 2026 15:07:07 +0700",
-      "description": "Tiền đạo Luis Diaz cho rằng trọng tài đúng khi truất quyền thi đấu của Eduardo Camavinga, ở trận Bayern thắng Real 4-3 tại lượt về tứ kết Champions League.",
-      "image": "https://vcdn1-thethao.vnecdn.net/2026/04/16/image1776325037070-1776325156-4054-1776325176.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=g1m-sQygNdXBScZKCxENew"
     }
   ],
-  "fetchedAt": "2026-04-19T23:23:33.668Z"
+  "fetchedAt": "2026-04-20T00:04:09.634Z"
 }
