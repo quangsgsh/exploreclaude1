@@ -4,10 +4,10 @@
   },
   "items": [
     {
-      "title": "Văn Quyết: 'Ninh Bình có ba Hoàng Đức cũng vậy thôi'",
-      "link": "https://vnexpress.net/van-quyet-ninh-binh-co-ba-hoang-duc-cung-vay-thoi-5066885.html",
+      "title": "Văn Quyết: 'Ninh Bình có 3 Hoàng Đức cũng vậy thôi'",
+      "link": "https://vnexpress.net/van-quyet-ninh-binh-co-3-hoang-duc-cung-vay-thoi-5066885.html",
       "pubDate": "Fri, 24 Apr 2026 21:14:52 +0700",
-      "description": "Tiền đạo Hà Nội FC Nguyễn Văn Quyết mỉa mai lối chơi của Ninh Bình sau khi thắng đối thủ này 3-2 ở vòng 20 V-League 2025-2026 tối 24/4.",
+      "description": "Tiền đạo Hà Nội FC Nguyễn Văn Quyết mỉa mai lối chơi của Ninh Bình sau chiến thắng 3-2 ở vòng 20 V-League 2025-2026.",
       "image": "https://vcdn1-thethao.vnecdn.net/2026/04/24/678709985-n-1777039915-7496-1777040001.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=S8Y9cNDo67MQJx4NYjRTlw"
     },
     {
@@ -23,13 +23,6 @@
       "pubDate": "Fri, 24 Apr 2026 18:51:49 +0700",
       "description": "Việt Nam thắng Malaysia 3-0 ở chung kết, qua đó lần thứ tư vô địch giải U17 Đông Nam Á.",
       "image": "https://vcdn1-thethao.vnecdn.net/2026/04/24/z7760254187822f82b58c805404b97-2785-7331-1777037551.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ckpkPBHojCF9UvTPpLlFCA"
-    },
-    {
-      "title": "Malaysia quyết 'phục thù' Việt Nam ở chung kết U17 Đông Nam Á",
-      "link": "https://vnexpress.net/malaysia-quyet-phuc-thu-viet-nam-o-chung-ket-u17-dong-nam-a-5066658.html",
-      "pubDate": "Fri, 24 Apr 2026 12:49:46 +0700",
-      "description": "Các thành viên đội tuyển lẫn truyền thông Malaysia đều tin vào một chiến thắng trước Việt Nam ở chung kết U17 Đông Nam Á 2026.",
-      "image": "https://vcdn1-thethao.vnecdn.net/2026/04/24/671663837-n-1777009517-1321-1777009584.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yJvznSvvnQK7GSCPDjJOXA"
     },
     {
       "title": "Vì sao Chelsea sớm sa thải Rosenior?",
@@ -121,6 +114,13 @@
       "pubDate": "Fri, 24 Apr 2026 19:30:00 +0700",
       "description": "Gần 200 nhân sự từ lãnh đạo đến nhân viên Carlsberg Việt Nam tham gia chinh phục các cung đường di sản, khám phá Kinh thành, sông Hương tại VM Huế, ngày 19/4.",
       "image": "https://vcdn1-thethao.vnecdn.net/2026/04/24/Anh-1-1777031315.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=42VKFkb0ubRxyBOHBfMilQ"
+    },
+    {
+      "title": "Malaysia quyết 'phục thù' Việt Nam ở chung kết U17 Đông Nam Á",
+      "link": "https://vnexpress.net/malaysia-quyet-phuc-thu-viet-nam-o-chung-ket-u17-dong-nam-a-5066658.html",
+      "pubDate": "Fri, 24 Apr 2026 12:49:46 +0700",
+      "description": "Các thành viên đội tuyển lẫn truyền thông Malaysia đều tin vào một chiến thắng trước Việt Nam ở chung kết U17 Đông Nam Á 2026.",
+      "image": "https://vcdn1-thethao.vnecdn.net/2026/04/24/671663837-n-1777009517-1321-1777009584.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yJvznSvvnQK7GSCPDjJOXA"
     },
     {
       "title": "Yamal nghỉ hết mùa giải",
@@ -424,5 +424,5 @@
       "image": "https://vcdn1-thethao.vnecdn.net/2026/04/22/mockuper-png-1776824294-2714-1776825257.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=IkAhlayyYETiJs4q0zzvzQ"
     }
   ],
-  "fetchedAt": "2026-04-24T14:47:41.106Z"
+  "fetchedAt": "2026-04-24T16:09:14.812Z"
 }
