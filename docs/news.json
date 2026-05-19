@@ -4,11 +4,25 @@
   },
   "items": [
     {
+      "title": "Ronaldo lần thứ sáu dự World Cup",
+      "link": "https://vnexpress.net/ronaldo-lan-thu-sau-du-world-cup-5075838.html",
+      "pubDate": "Tue, 19 May 2026 20:14:57 +0700",
+      "description": "Tiền đạo Cristiano Ronaldo lập kỷ lục, khi có tên trong danh sách 26 tuyển thủ Bồ Đào Nha dự World Cup 2026.",
+      "image": "https://vcdn1-thethao.vnecdn.net/2026/05/19/CBQ2R42TPNLMTGML5IHV5WDWQA-177-6272-9203-1779196386.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=waFpVbxkCX3fhIsNJItzcQ"
+    },
+    {
       "title": "Man City đạt thỏa thuận bổ nhiệm HLV Maresca",
       "link": "https://vnexpress.net/man-city-dat-thoa-thuan-bo-nhiem-hlv-maresca-5075730.html",
       "pubDate": "Tue, 19 May 2026 15:43:03 +0700",
       "description": "Man City sẽ ký hợp đồng ba năm với HLV Enzo Maresca để ông kế nhiệm Pep Guardiola từ mùa giải 2026-2027.",
       "image": "https://vcdn1-thethao.vnecdn.net/2026/05/19/enzo-maresca-1779179773-3222-1779179988.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lu95BiEIbsMNSx4eNcBv_g"
+    },
+    {
+      "title": "CAHN thách thức nhiều kỷ lục của Hà Nội FC ở V-League",
+      "link": "https://vnexpress.net/cahn-thach-thuc-nhieu-ky-luc-cua-ha-noi-fc-o-v-league-5075710.html",
+      "pubDate": "Tue, 19 May 2026 15:42:17 +0700",
+      "description": "Đương kim vô địch Công an Hà Nội có thể phá 5 kỷ lục V-League mà Hà Nội FC đang nắm giữ, khi mùa giải 2025-2026 vẫn còn ba vòng.",
+      "image": "https://vcdn1-thethao.vnecdn.net/2026/05/19/z7835869439898-e49c641cc96ef70-2234-9646-1779179075.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2MAS0NI8BbpKITjds9FdqA"
     },
     {
       "title": "Guardiola - người thay đổi dòng chảy bóng đá Anh",
@@ -44,13 +58,6 @@
       "pubDate": "Tue, 19 May 2026 11:55:58 +0700",
       "description": "Bộ Văn hóa, Thể thao và Du lịch cùng Bộ Quốc phòng đang xây dựng đề án chuyển giao Khu liên hợp thể thao quốc gia Mỹ Đình theo chỉ đạo của Chính phủ.",
       "image": "https://vcdn1-vnexpress.vnecdn.net/2026/05/19/11-1779165683-6143-1779165996.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yKFBgT2-G3L87NFJYPNgBA"
-    },
-    {
-      "title": "CAHN thách thức nhiều kỷ lục của Hà Nội FC ở V-League",
-      "link": "https://vnexpress.net/cahn-thach-thuc-nhieu-ky-luc-cua-ha-noi-fc-o-v-league-5075710.html",
-      "pubDate": "Tue, 19 May 2026 15:42:17 +0700",
-      "description": "Đương kim vô địch Công an Hà Nội có thể phá 5 kỷ lục V-League mà Hà Nội FC đang nắm giữ, khi mùa giải 2025-2026 vẫn còn ba vòng.",
-      "image": "https://vcdn1-thethao.vnecdn.net/2026/05/19/z7835869439898-e49c641cc96ef70-2234-9646-1779179075.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2MAS0NI8BbpKITjds9FdqA"
     },
     {
       "title": "Tay vợt tụt quần vì thua điểm ở ATP",
@@ -142,6 +149,13 @@
       "pubDate": "Tue, 19 May 2026 00:00:00 +0700",
       "description": "Cựu HLV và CEO Real Madrid Jorge Valdano cho rằng đội bóng cũ cần tăng cường mạnh lực lượng, đặc biệt ở hàng thủ nếu Jose Mourinho tái xuất.",
       "image": "https://vcdn1-thethao.vnecdn.net/2026/05/18/mourinho-png-1779112519-2250-1779112733.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=IOSUGfQdhZsILdYBtDR4Wg"
+    },
+    {
+      "title": "Dấu ấn giải chạy NAB Vietnam Vitural Race sau 3 tuần",
+      "link": "https://vnexpress.net/dau-an-giai-chay-nab-vietnam-vitural-race-sau-3-tuan-5073550.html",
+      "pubDate": "Tue, 19 May 2026 19:00:00 +0700",
+      "description": "Giải chạy do NAB Innovation Vietnam Centre phát động từ 21/4 đón hơn 3.600 người từ 33 tỉnh thành, đóng góp hơn 900 triệu đồng gây quỹ.",
+      "image": "https://vcdn1-thethao.vnecdn.net/2026/05/19/settop-1779182857.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=XtlRa3O7etMkaXE26nmRUw"
     },
     {
       "title": "VnExpress Marathon Đà Nẵng trở lại với nhiều điểm mới",
@@ -408,21 +422,7 @@
       "pubDate": "Sun, 17 May 2026 13:00:46 +0700",
       "description": "Với nhiều đóng góp cho công tác đào tạo trẻ, HLV Guillaume Graechen nhận Kỷ niệm chương vì sự nghiệp Bóng đá Việt Nam.",
       "image": "https://vcdn1-thethao.vnecdn.net/2026/05/17/4-JPG-1778992029.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=T22BGsPNgfPFDek_WsTnFA"
-    },
-    {
-      "title": "Salah kêu gọi Liverpool tìm lại bản sắc 'heavy metal'",
-      "link": "https://vnexpress.net/salah-keu-goi-liverpool-tim-lai-ban-sac-heavy-metal-5074800.html",
-      "pubDate": "Sun, 17 May 2026 07:29:25 +0700",
-      "description": "Mohamed Salah cho rằng Liverpool đang đánh mất bản sắc dưới thời HLV Arne Slot, và kêu gọi đội bóng trở lại lối chơi tấn công rực lửa từng khiến các đối thủ e ngại trong kỷ nguyên Jurgen Klopp.",
-      "image": "https://vcdn1-thethao.vnecdn.net/2026/05/17/salah-png-1778966049-1327-1778966190.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=OzbFdKPM6Pnbm0fMKb9HUg"
-    },
-    {
-      "title": "Guardiola cấm cầu thủ uống bia sau khi đoạt Cup FA",
-      "link": "https://vnexpress.net/guardiola-cam-cau-thu-uong-bia-sau-khi-doat-cup-fa-5074795.html",
-      "pubDate": "Sun, 17 May 2026 07:11:21 +0700",
-      "description": "HLV Pep Guardiola khẳng định cầu thủ Man City không được phép uống dù chỉ một cốc bia để ăn mừng Cup FA, vì toàn đội phải tập trung cho cuộc đua Ngoại hạng Anh.",
-      "image": "https://vcdn1-thethao.vnecdn.net/2026/05/17/guardiola-man-city-1778956940-9032-1778957293.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=P7c3spLGwDYmdMvan8krWA"
     }
   ],
-  "fetchedAt": "2026-05-19T11:29:58.465Z"
+  "fetchedAt": "2026-05-19T14:13:57.189Z"
 }
