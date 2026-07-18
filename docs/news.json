@@ -4,11 +4,18 @@
   },
   "items": [
     {
-      "title": "Việt Nam 3-0 Myanmar (H2): Hoàng Hên ghi siêu phẩm",
+      "title": "Tương quan trước trận Pháp - Anh",
+      "link": "https://vnexpress.net/tuong-quan-truoc-tran-phap-anh-5099035.html",
+      "pubDate": "Sat, 18 Jul 2026 21:37:42 +0700",
+      "description": "Pháp và Anh hy vọng rời World Cup 2026 với niềm vui an ủi, khi đối đầu trong trận tranh giải ba.",
+      "image": "https://vcdn1-thethao.vnecdn.net/2026/07/18/Phap-Anh-1784384672.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=1WEWfCamO00JzeT4uGgJPg"
+    },
+    {
+      "title": "Xuân Son, Đình Bắc tỏa sáng giúp Việt Nam hạ Myanmar",
       "link": "https://vnexpress.net/viet-nam-vs-myanmar-5098967.html",
       "pubDate": "Sat, 18 Jul 2026 18:00:25 +0700",
-      "description": "Nguyễn Xuân Son, Phạm Xuân Mạnh và Đỗ Hoàng Hên ghi bàn giúp Việt Nam dẫn Myanmar 3-0 ở trận giao hữu trước ASEAN Cup.",
-      "image": "https://vcdn1-thethao.vnecdn.net/2026/07/18/hoa-ng-he-n-jpeg-1784381081-9507-1784381093.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=inHudfSlE2Ey_jhFKXOibA"
+      "description": "Nguyễn Xuân Son, Phạm Xuân Mạnh, Đỗ Hoàng Hên và Nguyễn Đình Bắc ghi bàn giúp Việt Nam thắng Myanmar 4-0 ở trận giao hữu trước ASEAN Cup.",
+      "image": "https://vcdn1-thethao.vnecdn.net/2026/07/18/di-nh-ba-c-jpeg-1784383576-9882-1784383598.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mMPUoMyl6IK7Fmkjb_G3xg"
     },
     {
       "title": "HLV Tây Ban Nha không cắt cử người kèm Messi",
@@ -415,14 +422,7 @@
       "pubDate": "Thu, 16 Jul 2026 00:00:00 +0700",
       "description": "Thủ quân Lionel Messi góp hai kiến tạo trong 5 phút cuối, giúp Argentina thắng ngược đội tuyển Anh 2-1 ở bán kết World Cup 2026.",
       "image": "https://vcdn1-thethao.vnecdn.net/2026/07/16/ap26196757880671-1784149769-9334-1784150083.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=p-WC2zRHam1AMc-9ezaDlw"
-    },
-    {
-      "title": "Cơ thủ Thiện Lương vô địch pool châu Á 2026",
-      "link": "https://vnexpress.net/co-thu-thien-luong-vo-dich-pool-chau-a-2026-5097897.html",
-      "pubDate": "Wed, 15 Jul 2026 20:10:40 +0700",
-      "description": "Cơ thủ Lường Đức Thiện thắng Wu Kun Lin (Đài Loan) 11-7 để lên ngôi vô giải vô địch pool châu Á 2026, tối 15/7.",
-      "image": "https://vcdn1-thethao.vnecdn.net/2026/07/15/Screenshot20260715at192033-178-2653-2164-1784119616.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=pOMV7EBjQcSN0mo6HdWJog"
     }
   ],
-  "fetchedAt": "2026-07-18T13:51:41.850Z"
+  "fetchedAt": "2026-07-18T15:01:40.987Z"
 }
