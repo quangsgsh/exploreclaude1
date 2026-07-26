@@ -4,6 +4,13 @@
   },
   "items": [
     {
+      "title": "Hạ Thái Lan, Việt Nam lần đầu vô địch bóng chuyền nam Đông Nam Á",
+      "link": "https://vnexpress.net/ha-thai-lan-viet-nam-lan-dau-vo-dich-bong-chuyen-nam-dong-nam-a-5101830.html",
+      "pubDate": "Sun, 26 Jul 2026 21:36:04 +0700",
+      "description": "Việt Nam thắng Thái Lan 3-2 ở chung kết, để vô địch chặng hai giải bóng chuyền nam Đông Nam Á SEA V-Cup 2026.",
+      "image": "https://vcdn1-thethao.vnecdn.net/2026/07/26/758707042-n-1785076481-3610-1785076565.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lv3suZflX74WCCyOBbRViQ"
+    },
+    {
       "title": "HLV Indonesia nói đùa bị Argentina từ chối đá giao hữu",
       "link": "https://vnexpress.net/hlv-indonesia-noi-dua-bi-argentina-tu-choi-da-giao-huu-5101811.html",
       "pubDate": "Sun, 26 Jul 2026 18:50:09 +0700",
@@ -93,13 +100,6 @@
       "pubDate": "Sun, 26 Jul 2026 00:00:00 +0700",
       "description": "Arsenal đang xem xét khả năng chiêu mộ Vinicius - tiền đạo còn một năm hợp đồng và vẫn chưa gia hạn với Real Madrid.",
       "image": "https://vcdn1-thethao.vnecdn.net/2026/07/25/ap24302574737820-1784991960-8584-1784992077.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hJ6eH39wfTyfPCJLHG_-yw"
-    },
-    {
-      "title": "Hạ Thái Lan, Việt Nam lần đầu vô địch bóng chuyền nam Đông Nam Á",
-      "link": "https://vnexpress.net/ha-thai-lan-viet-nam-lan-dau-vo-dich-bong-chuyen-nam-dong-nam-a-5101830.html",
-      "pubDate": "Sun, 26 Jul 2026 21:36:04 +0700",
-      "description": "Việt Nam thắng Thái Lan 3-2 ở chung kết, để vô địch chặng hai giải bóng chuyền nam Đông Nam Á SEA V-Cup 2026 tối nay.",
-      "image": "https://vcdn1-thethao.vnecdn.net/2026/07/26/758707042-n-1785076481-3610-1785076565.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lv3suZflX74WCCyOBbRViQ"
     },
     {
       "title": "Đình Duân, Kim Cương vô địch Hoiana Aquaman 2026",
@@ -424,5 +424,5 @@
       "image": "https://vcdn1-thethao.vnecdn.net/2026/07/23/991710109c594673aa6d846b58f4d6-2044-8339-1784743478.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=nsBf9vU5lQ11CWtBaeRzkA"
     }
   ],
-  "fetchedAt": "2026-07-26T15:47:05.255Z"
+  "fetchedAt": "2026-07-26T17:09:09.211Z"
 }
