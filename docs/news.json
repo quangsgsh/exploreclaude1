@@ -4,18 +4,25 @@
   },
   "items": [
     {
-      "title": "Singapore - Indonesia: Trận chiến sống còn",
+      "title": "Việt Nam lần đầu vô địch cầu mây đôi nữ thế giới",
+      "link": "https://vnexpress.net/viet-nam-lan-dau-vo-dich-cau-may-doi-nu-the-gioi-5106613.html",
+      "pubDate": "Fri, 07 Aug 2026 19:46:21 +0700",
+      "description": "Cầu mây Việt Nam lần đầu giành HC vàng nội dung đôi nữ tại giải vô địch thế giới, sau trận thắng Myanmar 2-0 ở chung kết chiều 7/8.",
+      "image": "https://vcdn1-thethao.vnecdn.net/2026/08/07/tra-n-thi-vui-ca-u-ma-y-178610-2622-6792-1786106459.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XaqigmJkJyomnmRlQ1A6WA"
+    },
+    {
+      "title": "Singapore 0-0 Indonesia (H1): Đội khách gặp khó",
       "link": "https://vnexpress.net/singapore-indonesia-tran-chien-song-con-5106603.html",
       "pubDate": "Fri, 07 Aug 2026 19:11:34 +0700",
-      "description": "Singapore chỉ cần hòa ở lượt cuối bảng A là đủ vào bán kết ASEAN Cup, còn Indonesia phải thắng nếu không muốn bị loại. Bóng lăn lúc 20h.",
+      "description": "Singapore chủ động chơi chắc để kiếm một điểm và vào bán kết ASEAN Cup, còn Indonesia đang nôn nóng khi phải thắng nếu không muốn bị loại.",
       "image": "https://vcdn1-thethao.vnecdn.net/2026/08/07/Screenshot20260727at2243509553-1263-1768-1786104529.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=b-A5PEegqjYtBmq5rxanoA"
     },
     {
-      "title": "Việt Nam - Campuchia: Ba tiền đạo nhập tịch dự bị",
+      "title": "Việt Nam 1-0 Campuchia (H1): Quang Hải lỡ cơ hội",
       "link": "https://vnexpress.net/viet-nam-campuchia-5106492.html",
       "pubDate": "Fri, 07 Aug 2026 19:00:00 +0700",
-      "description": "Đỗ Hoàng Hên, Nguyễn Xuân Son và Nguyễn Tài Lộc không đá chính, khi Việt Nam gặp Campuchia ở lượt cuối bảng A ASEAN Cup 2026. Bóng lăn trên sân Mỹ Đình lúc 20h.",
-      "image": "https://vcdn1-thethao.vnecdn.net/2026/08/07/viet-nam-1786092472-8007-1786092648.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ip5MBIGbpTwDiasqfN4vqQ"
+      "description": "Đội trưởng Quang Hải dứt điểm bất thành, khi Việt Nam dẫn Campuchia 1-0 ở lượt cuối bảng A ASEAN Cup 2026.",
+      "image": "https://vcdn1-thethao.vnecdn.net/2026/08/07/wm1-wm1-quang-hai-jpeg-1786110252-3831-1786110275.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_mG2mLZ_I2kC4X7tCA3mBQ"
     },
     {
       "title": "Việt Nam - Campuchia: Ba mục tiêu của thầy trò Kim Sang-sik",
@@ -415,14 +422,7 @@
       "pubDate": "Tue, 04 Aug 2026 06:02:23 +0700",
       "description": "Rizky Ridho thừa nhận Indonesia chịu tâm lý nặng nề sau khi thua Việt Nam 0-3 ở ASEAN Cup 2026, nhưng tin đội nhà sẽ đứng dậy một cách mạnh mẽ.",
       "image": "https://vcdn1-thethao.vnecdn.net/2026/08/04/wm1-wm1-don-jpg-1785797967-1623-1785797975.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XppUxEsIwlG0gbmEAqjwtQ"
-    },
-    {
-      "title": "Nghi vấn gian lận bằng áo ngực tại Tour de France nữ",
-      "link": "https://vnexpress.net/nghi-van-gian-lan-bang-ao-nguc-tai-tour-de-france-nu-5104804.html",
-      "pubDate": "Tue, 04 Aug 2026 05:48:11 +0700",
-      "description": "Nhiều đội đua thuộc hệ thống WorldTour đề nghị tăng cường kiểm tra sau khi nghi ngờ một số VĐV nữ sử dụng vật liệu độn trong áo ngực nhằm thay đổi hình dáng cơ thể, qua đó cải thiện tính khí động học ở các chặng đua tính giờ.",
-      "image": "https://vcdn1-thethao.vnecdn.net/2026/08/03/a-nh-ma-n-hi-nh-lu-c-178576177-6711-4939-1785761906.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=U2SIcfBLc_X-hevUxiSKiQ"
     }
   ],
-  "fetchedAt": "2026-08-07T12:29:09.351Z"
+  "fetchedAt": "2026-08-07T13:53:41.118Z"
 }
