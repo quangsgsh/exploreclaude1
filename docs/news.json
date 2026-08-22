@@ -4,6 +4,20 @@
   },
   "items": [
     {
+      "title": "HLV Kim họp báo sau khi Việt Nam đánh bại Thái Lan",
+      "link": "https://vnexpress.net/hlv-kim-hop-bao-sau-khi-viet-nam-danh-bai-thai-lan-5112266.html",
+      "pubDate": "Sat, 22 Aug 2026 22:01:18 +0700",
+      "description": "HLV Kim Sang-sik chuẩn bị đưa ra những đánh giá sau khi Việt Nam thắng Thái Lan 2-0 ở lượt đi chung kết ASEAN Cup 2026, trên sân Rajamangala tối nay.",
+      "image": "https://vcdn1-thethao.vnecdn.net/2026/08/22/dong7151-jpg-1787409632-5277-1787409933.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7K4_uuubE69oe7E52TdnNw"
+    },
+    {
+      "title": "HLV Thái Lan họp báo sau khi thua Việt Nam",
+      "link": "https://vnexpress.net/hlv-thai-lan-hop-bao-sau-khi-thua-viet-nam-5112265.html",
+      "pubDate": "Sat, 22 Aug 2026 21:59:41 +0700",
+      "description": "HLV Anthony Hudson sắp đưa ra những đánh giá sau khi Thái Lan thua Việt Nam 0-2 ở lượt đi chung kết ASEAN Cup 2026, trên sân Rajamangala tối nay.",
+      "image": "https://vcdn1-thethao.vnecdn.net/2026/08/22/dong8798-jpg-1787409916-7135-1787409928.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4eUoOJYwugLx7girW_lQVA"
+    },
+    {
       "title": "Man Utd thua sốc tân binh Ngoại hạng Anh",
       "link": "https://vnexpress.net/man-utd-thua-soc-tan-binh-ngoai-hang-anh-5112254.html",
       "pubDate": "Sat, 22 Aug 2026 20:27:26 +0700",
@@ -19,9 +33,9 @@
     },
     {
       "title": "Việt Nam thắng trên sân Thái Lan ở lượt đi chung kết ASEAN Cup",
-      "link": "https://vnexpress.net/truc-tiep-thai-lan-vs-viet-nam-5112232.html",
+      "link": "https://vnexpress.net/ket-qua-thai-lan-vs-viet-nam-5112232.html",
       "pubDate": "Sat, 22 Aug 2026 18:32:48 +0700",
-      "description": "Việt Nam ghi liền hai bàn ngay sau khi làm mới hàng công, ở hiệp hai lượt đi chung kết ASEAN Cup 2026.",
+      "description": "Các bàn thắng của Nguyễn Hai Long và Nguyễn Quang Hải giúp Việt Nam thắng Thái Lan 2-0 ở lượt đi chung kết ASEAN Cup 2026.",
       "image": "https://vcdn1-thethao.vnecdn.net/2026/08/22/178740903381552737980667512245-9771-8515-1787409753.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SmXNualfDIY7KqH79UrKLw"
     },
     {
@@ -408,21 +422,7 @@
       "pubDate": "Wed, 19 Aug 2026 22:07:17 +0700",
       "description": "HLV Kim Sang-sik ngợi khen Nguyễn Xuân Son - chủ nhân cú đúp hạ Malaysia 2-0 ở bán kết lượt về, và kỳ vọng anh tiếp tục ghi bàn cho Việt Nam trong hai trận chung kết ASEAN Cup 2026.",
       "image": "https://vcdn1-thethao.vnecdn.net/2026/08/19/wm1-wm1-kim-1787156831-8044-1787157049.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Y_WCN2bPU1ozJmuRrtsu3A"
-    },
-    {
-      "title": "Man Utd sắp đạt thỏa thuận mua Baleba",
-      "link": "https://vnexpress.net/man-utd-sap-dat-thoa-thuan-mua-baleba-5110988.html",
-      "pubDate": "Wed, 19 Aug 2026 19:03:10 +0700",
-      "description": "Man Utd đang tiến gần thỏa thuận chiêu mộ tiền vệ Carlos Baleba từ Brighton, sau khi gửi đề nghị tổng cộng 88 triệu USD.",
-      "image": "https://vcdn1-thethao.vnecdn.net/2026/08/19/baleba-1787140598-3459-1787140739.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=P996JiM-Dh0aiivcFDbKpQ"
-    },
-    {
-      "title": "Xuân Son lập cú đúp, Việt Nam vào chung kết ASEAN Cup",
-      "link": "https://vnexpress.net/ket-qua-viet-nam-vs-malaysia-5110973-tong-thuat.html",
-      "pubDate": "Wed, 19 Aug 2026 18:30:00 +0700",
-      "description": "Tiền đạo Nguyễn Xuân Son tỏa sáng sau khi vào thay người, giúp Việt Nam hạ Malaysia 2-0 ở lượt về bán kết ASEAN Cup 2026, để vào chung kết gặp Thái Lan.",
-      "image": "https://vcdn1-thethao.vnecdn.net/2026/08/19/178714976640242425977420466158-6007-8097-1787151757.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0JYWudD25GK8s7pBdKpg7g"
     }
   ],
-  "fetchedAt": "2026-08-22T15:00:17.212Z"
+  "fetchedAt": "2026-08-22T15:36:31.710Z"
 }
