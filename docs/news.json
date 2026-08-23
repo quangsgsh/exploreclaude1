@@ -4,8 +4,15 @@
   },
   "items": [
     {
-      "title": "Carrick: 'Không cần la hét hay tạo hỗn loạn vì một trận thua'",
-      "link": "https://vnexpress.net/carrick-khong-can-la-het-hay-tao-hon-loan-vi-mot-tran-thua-5112304.html",
+      "title": "ESPN: 'Việt Nam thắng Thái Lan nhờ tài điều binh của HLV Kim'",
+      "link": "https://vnexpress.net/espn-viet-nam-thang-thai-lan-nho-tai-dieu-binh-cua-hlv-kim-5112345.html",
+      "pubDate": "Sun, 23 Aug 2026 10:16:55 +0700",
+      "description": "Hãng tin ESPN đánh giá cao việc HLV Kim Sang-sik điều chỉnh chiến thuật và nhân sự, khi Việt Nam đánh bại Thái Lan 2-0 ở lượt đi chung kết ASEAN Cup 2026.",
+      "image": "https://vcdn1-thethao.vnecdn.net/2026/08/23/wm1-wm1-don-jpg-1787452657-7153-1787453011.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ux5HW0J3Nv0nIGmfHISbyg"
+    },
+    {
+      "title": "Carrick: 'Không cần gào thét lên vì một trận thua'",
+      "link": "https://vnexpress.net/carrick-khong-can-gao-thet-len-vi-mot-tran-thua-5112304.html",
       "pubDate": "Sun, 23 Aug 2026 08:21:50 +0700",
       "description": "HLV Michael Carrick cho rằng Man Utd cần giữ bình tĩnh và không hoảng loạn sau trận thua Hull City 0-2 ở vòng một Ngoại hạng Anh.",
       "image": "https://vcdn1-thethao.vnecdn.net/2026/08/23/man-utd1-1787429414-4357-1787429421.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qStgC5aWj9kG3QABl3EAhQ"
@@ -415,14 +422,7 @@
       "pubDate": "Thu, 20 Aug 2026 09:08:54 +0700",
       "description": "Lionel Messi ghi bàn sau ba trận tịt ngòi tại MLS, nhưng Inter Miami vẫn bị chủ nhà Philadelphia Union cầm hòa 2-2 ở vòng 20.",
       "image": "https://vcdn1-thethao.vnecdn.net/2026/08/20/messi-1787191572-3173-1787191582.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3oRjfnsv6zisZjYJMnyqFg"
-    },
-    {
-      "title": "Việt Nam vượt qua Trung Quốc theo Elo bóng đá",
-      "link": "https://vnexpress.net/viet-nam-vuot-qua-trung-quoc-theo-elo-bong-da-5111082.html",
-      "pubDate": "Thu, 20 Aug 2026 08:19:29 +0700",
-      "description": "Chiến thắng 2-0 trước Malaysia ở lượt về bán kết ASEAN Cup 2026 giúp đội tuyển Việt Nam lần đầu vượt qua Trung Quốc trên bảng Elo bóng đá.",
-      "image": "https://vcdn1-thethao.vnecdn.net/2026/08/20/don-jpg-1787188240-4589-1787188439.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wJr0Rgu4ytI5d_4Q-Rmetw"
     }
   ],
-  "fetchedAt": "2026-08-23T03:09:23.059Z"
+  "fetchedAt": "2026-08-23T04:02:46.310Z"
 }
