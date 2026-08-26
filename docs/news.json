@@ -4,6 +4,13 @@
   },
   "items": [
     {
+      "title": "'Đi bão' xuyên đêm mừng Việt Nam vô địch",
+      "link": "https://vnexpress.net/di-bao-xuyen-dem-mung-viet-nam-vo-dich-5113851.html",
+      "pubDate": "Thu, 27 Aug 2026 01:00:00 +0700",
+      "description": "Hàng chục nghìn người hâm mộ ở Hà Nội, TP HCM, Hải Phòng... đổ xuống đường suốt đêm hò reo, vẫy cờ mừng tuyển Việt Nam vô địch ASEAN Cup 2026.",
+      "image": "https://vcdn1-vnexpress.vnecdn.net/2026/08/27/wm1-bongda-1787765565.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fHJtocsgANi9lIoNgIPEVA"
+    },
+    {
       "title": "Việt Nam xô đổ loạt cột mốc ASEAN Cup",
       "link": "https://vnexpress.net/viet-nam-xo-do-loat-cot-moc-asean-cup-5113881.html",
       "pubDate": "Thu, 27 Aug 2026 00:04:56 +0700",
@@ -415,14 +422,7 @@
       "pubDate": "Mon, 24 Aug 2026 00:49:23 +0700",
       "description": "Liverpool bị chủ nhà Newcastle dẫn hai lần nhưng vẫn hòa 2-2 nhờ quả phạt đền của Dominik Szoboszlai ở phút bù thứ chín, trong trận ra quân Ngoại hạng Anh.",
       "image": "https://vcdn1-thethao.vnecdn.net/2026/08/24/liverpool-1787507177-2671-1787507277.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=F6KIw66kMee3rjyzdPU6mA"
-    },
-    {
-      "title": "Kejelcha giành lại kỷ lục thế giới half marathon",
-      "link": "https://vnexpress.net/kejelcha-gianh-lai-ky-luc-the-gioi-half-marathon-5112491.html",
-      "pubDate": "Mon, 24 Aug 2026 00:00:00 +0700",
-      "description": "Yomif Kejelcha chạy 56 phút 51 giây tại giải 21K de Buenos Aires ngày 23/8, qua đó giành lại kỷ lục thế giới half marathon mà anh để mất vào tháng 3 vào tay Jacob Kiplimo.",
-      "image": "https://vcdn1-thethao.vnecdn.net/2026/08/23/vdv-jpeg-1787497551-7297-1787497660.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=K7IIbd9bgDMIrxOe_pP7ug"
     }
   ],
-  "fetchedAt": "2026-08-26T17:50:14.480Z"
+  "fetchedAt": "2026-08-26T19:19:03.429Z"
 }
