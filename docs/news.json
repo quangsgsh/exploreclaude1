@@ -4,6 +4,27 @@
   },
   "items": [
     {
+      "title": "Ten Hag: 'Ronaldo kìm hãm đội tuyển Bồ Đào Nha'",
+      "link": "https://vnexpress.net/ten-hag-ronaldo-kim-ham-doi-tuyen-bo-dao-nha-5135360.html",
+      "pubDate": "Thu, 22 Oct 2026 06:57:01 +0700",
+      "description": "Cựu HLV Man Utd Erik ten Hag cho rằng Cristiano Ronaldo đặt thương hiệu cá nhân lên trên lợi ích tập thể, và Bồ Đào Nha thi đấu tốt hơn khi không có tiền đạo 41 tuổi.",
+      "image": "https://vcdn1-thethao.vnecdn.net/2026/10/22/ten-hag-ronaldo-1792613143-7728-1792613231.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KbTmRrLiRZiWqDZmW6Krpg"
+    },
+    {
+      "title": "Bayern và Arsenal bất phân thắng bại ở Champions League",
+      "link": "https://vnexpress.net/bayern-va-arsenal-bat-phan-thang-bai-o-champions-league-5135363.html",
+      "pubDate": "Thu, 22 Oct 2026 05:51:35 +0700",
+      "description": "Tiền vệ Declan Rice ghi bàn cuối trận, giúp Arsenal hòa Bayern 2-2 trên sân Allianz ở lượt ba vòng phân hạng Champions League ngày 21/10.",
+      "image": "https://vcdn1-thethao.vnecdn.net/2026/10/22/ap26294746999563-1792623070-3284-1792623095.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=v1tfNKLATs-Tb4_4DKa6oQ"
+    },
+    {
+      "title": "Real thắng đậm trước El Clasico",
+      "link": "https://vnexpress.net/real-thang-dam-truoc-el-clasico-5135361.html",
+      "pubDate": "Thu, 22 Oct 2026 05:44:54 +0700",
+      "description": "Đè bẹp RB Leipzig 4-1 ở vòng phân hạng Champions League, Real Madrid có trận thứ ba liên tiếp ghi bốn bàn khi hướng tới đại chiến Barca.",
+      "image": "https://vcdn1-thethao.vnecdn.net/2026/10/22/ap262947495149101-1792621966-8233-1792622210.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NPWJOcGo47aVQ1zAEQ3Eeg"
+    },
+    {
       "title": "Lập kỷ lục kiếm tiền, Messi vẫn kém một nửa Ronaldo",
       "link": "https://vnexpress.net/lap-ky-luc-kiem-tien-messi-van-kem-mot-nua-ronaldo-5135349.html",
       "pubDate": "Thu, 22 Oct 2026 04:02:02 +0700",
@@ -32,18 +53,18 @@
       "image": "https://vcdn1-thethao.vnecdn.net/2026/10/22/man-utd-1792607001-3975-1792607009.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2VcS0ZOeAn2cEjjo3X0_zA"
     },
     {
-      "title": "Carlsen: 'AI cho thấy con người không xuất sắc đến thế'",
-      "link": "https://vnexpress.net/carlsen-ai-cho-thay-con-nguoi-khong-xuat-sac-den-the-5135306.html",
-      "pubDate": "Thu, 22 Oct 2026 00:00:00 +0700",
-      "description": "Kỳ thủ số một thế giới Magnus Carlsen cho rằng trí tuệ nhân tạo (AI) giúp cờ vua trở nên hấp dẫn hơn, đồng thời cho thấy con người còn nhiều điều phải học.",
-      "image": "https://vcdn1-thethao.vnecdn.net/2026/10/21/carlsen-1792594652-2559-1792594723.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pmc97I9v9yCyySBeK2K0BQ"
-    },
-    {
       "title": "PSG có thể mất Kvaratskhelia từ 12 đến 18 tháng",
       "link": "https://vnexpress.net/psg-co-the-mat-kvaratskhelia-tu-12-den-18-thang-5135335.html",
       "pubDate": "Thu, 22 Oct 2026 00:00:00 +0700",
       "description": "Tiền đạo Khvicha Kvaratskhelia bị rách dây chằng chéo trước (ACL) đầu gối phải, dự kiến phải phẫu thuật sớm và sẽ nghỉ thi đấu dài hạn.",
       "image": "https://vcdn1-thethao.vnecdn.net/2026/10/21/Screenshot20261021221842-17925-4476-7778-1792596239.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=xrQ7lTIyte1U6TsTs9NU2g"
+    },
+    {
+      "title": "Carlsen: 'AI cho thấy con người không xuất sắc đến thế'",
+      "link": "https://vnexpress.net/carlsen-ai-cho-thay-con-nguoi-khong-xuat-sac-den-the-5135306.html",
+      "pubDate": "Thu, 22 Oct 2026 00:00:00 +0700",
+      "description": "Kỳ thủ số một thế giới Magnus Carlsen cho rằng trí tuệ nhân tạo (AI) giúp cờ vua trở nên hấp dẫn hơn, đồng thời cho thấy con người còn nhiều điều phải học.",
+      "image": "https://vcdn1-thethao.vnecdn.net/2026/10/21/carlsen-1792594652-2559-1792594723.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pmc97I9v9yCyySBeK2K0BQ"
     },
     {
       "title": "Các ứng viên bộ máy lãnh đạo VFF nhiệm kỳ mới",
@@ -401,28 +422,7 @@
       "pubDate": "Mon, 19 Oct 2026 11:27:31 +0700",
       "description": "Sau khi Lionel Messi lập cú đúp giúp Inter Miami thắng Atlanta United 3-1 ở MLS, HLV Cristian Gonzalez tin siêu sao Argentina sẽ chinh phục được cột mốc 1.000 bàn.",
       "image": "https://vcdn1-thethao.vnecdn.net/2026/10/18/a-nh-ma-n-hi-nh-lu-c-179232637-5875-2071-1792326428.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=8dgICN5vQdj6qPPUla5D8g"
-    },
-    {
-      "title": "Cầu thủ Brighton tái hiện siêu phẩm giữa sân của Beckham",
-      "link": "https://vnexpress.net/cau-thu-brighton-tai-hien-sieu-pham-giua-san-cua-beckham-5133991.html",
-      "pubDate": "Mon, 19 Oct 2026 08:20:59 +0700",
-      "description": "Tiền vệ Diego Gomez ghi bàn từ khoảng cách 47 m trong trận Brighton thắng Crystal Palace 5-0 ở vòng 7 Ngoại hạng Anh.",
-      "image": "https://vcdn1-thethao.vnecdn.net/2026/10/19/1-1792371466-2255-1792371499.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=c2i9HMxm5qPrhNfL5Zantg&t=image"
-    },
-    {
-      "title": "HLV Sevilla: 'Trọng tài không muốn Real rơi thêm điểm'",
-      "link": "https://vnexpress.net/hlv-sevilla-trong-tai-khong-muon-real-roi-them-diem-5133966.html",
-      "pubDate": "Mon, 19 Oct 2026 07:00:50 +0700",
-      "description": "HLV Luis Garcia Plaza cho rằng trọng tài và VAR đã bỏ qua lỗi đáng nhận thẻ đỏ của Arda Guler, trong trận Sevilla thua Real Madrid 1-4 ở vòng 9 La Liga.",
-      "image": "https://vcdn1-thethao.vnecdn.net/2026/10/19/sevilla-1792367872-1495-1792367941.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0P-vNYO8OgeBB7Uzd4sFvA"
-    },
-    {
-      "title": "Real thoát thẻ đỏ vì không đủ góc quay ở La Liga",
-      "link": "https://vnexpress.net/real-thoat-the-do-vi-khong-du-goc-quay-o-la-liga-5133959.html",
-      "pubDate": "Mon, 19 Oct 2026 06:25:06 +0700",
-      "description": "Tiền vệ Arda Guler thoát thẻ đỏ khi VAR không tìm được góc quay đủ rõ để xác minh cú đánh nguội trong trận Real Madrid thắng Sevilla 4-1 ở vòng 9 La Liga.",
-      "image": "https://vcdn1-thethao.vnecdn.net/2026/10/19/Guler-1792365214-6205-1792365227.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=zbo4Wwx92nuEWMHZsXYc0g&t=image"
     }
   ],
-  "fetchedAt": "2026-10-21T22:37:29.275Z"
+  "fetchedAt": "2026-10-22T00:56:27.550Z"
 }
