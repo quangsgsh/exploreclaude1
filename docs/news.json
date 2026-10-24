@@ -4,6 +4,13 @@
   },
   "items": [
     {
+      "title": "Tottenham thắng trên sân Chelsea",
+      "link": "https://vnexpress.net/tottenham-thang-tren-san-chelsea-5136548.html",
+      "pubDate": "Sun, 25 Oct 2026 01:25:05 +0700",
+      "description": "Tottenham dứt chuỗi sáu trận thua Chelsea, khi thắng đối thủ này 2-0 trên sân Stamford Bridge ở vòng 8 Ngoại hạng Anh.",
+      "image": "https://vcdn1-thethao.vnecdn.net/2026/10/25/tottenham-1792865882-7366-1792866060.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Iv4hjbwHt80hNkwghZEJKA"
+    },
+    {
       "title": "Arsenal áp sát đỉnh bảng Ngoại hạng Anh",
       "link": "https://vnexpress.net/arsenal-ap-sat-dinh-bang-ngoai-hang-anh-5136521.html",
       "pubDate": "Sat, 24 Oct 2026 23:02:27 +0700",
@@ -415,14 +422,7 @@
       "pubDate": "Wed, 21 Oct 2026 11:38:09 +0700",
       "description": "Jose Mourinho giúp Real Madrid thắng 9 trong 11 trận đầu mùa, giảm căng thẳng trong phòng thay đồ, nhưng vẫn chưa khơi dậy phong độ của Vinicius Junior.",
       "image": "https://vcdn1-thethao.vnecdn.net/2026/10/21/real-mourinho-1792517500-9072-1792517506.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=dQQaKJ-b7o_9CyG0cYUxqQ"
-    },
-    {
-      "title": "Ông chủ Man City và bóng đen từ đại án tài chính 4,5 tỷ USD",
-      "link": "https://vnexpress.net/ong-chu-man-city-va-bong-den-tu-dai-an-tai-chinh-4-5-ty-usd-5134694.html",
-      "pubDate": "Wed, 21 Oct 2026 11:33:23 +0700",
-      "description": "Mansour Al Nahyan từng bị giới điều tra Mỹ nêu tên trong đại án tài chính 4,5 tỷ USD, trước khi Man City tiếp tục vướng phán quyết vi phạm quy định tài chính của Ngoại hạng Anh.",
-      "image": "https://vcdn1-thethao.vnecdn.net/2026/10/20/mansour-1792485127-3621-1792485259.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rS4VWHXCnhjsIRG090UuWQ"
     }
   ],
-  "fetchedAt": "2026-10-24T16:51:38.696Z"
+  "fetchedAt": "2026-10-24T19:22:01.799Z"
 }
